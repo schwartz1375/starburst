@@ -1,0 +1,16 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dotenv
+.env/
+.DS_Store
+
+# sqlite_db
+sqlite_mitre-attack_13.1.db 
+
+# family layers
+*_layer.json
